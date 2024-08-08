@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### Welcome to my profile! ⚡
+Here you have some of my work
+
+|<!--->|<!--->|
+|-|-|
+| [some dotfiles for linux](https://github.com/leo283/Linux-dot-files) | [Run chatgpt using OpenAI's API](https://github.com/leo283/chatsito) |
+
+
 <!--
 **leo283/leo283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
